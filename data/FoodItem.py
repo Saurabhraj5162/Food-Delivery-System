@@ -34,7 +34,7 @@ class FoodItem:
     def getRestaurant(self,):
         return self.restaurantID
     
-    def getIsVailable(self,):
+    def getIsAvailable(self,):
         return self.isAvailable
     
 
